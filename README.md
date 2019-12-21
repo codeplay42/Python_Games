@@ -1,19 +1,19 @@
 ### Python 游戏
 使用 Python Arcade 库制作的游戏，示意效果如下：
 1. Ball Animation
-![Ball](./pics/1ball.gif)
+<img src="./pics/1ball.gif" width="800" align=center/>
 
 2. Pong 
-![Pong](./pics/2pong.gif)
+<img src="./pics/2pong.gif" width="800" align=center/>
 
 3. Flappy Bird
-![Flappy Bird](./pics/3flappy_bird.gif)
+<img src="./pics/3flappy_bird.gif" width="600" align=center/>
 
 4. Bongo Cat 
-![Bongo Cat](./pics/4bongo_cat.gif)
+<img src="./pics/4bongo_cat.gif" width="800" align=center/>
 
 5. Ninja Adventure 
-![Ninja Adventure](./pics/5ninja.gif)
+<img src="./pics/5ninja.gif" width="800" align=center/>
 
 6. Pipeline Mario
-![Pipeline Mario](./pics/6mario.gif)
+<img src="./pics/6mario.gif" width="800" align=center/>
